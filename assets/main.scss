@@ -1,5 +1,13 @@
 ---
 ---
 
+
+
 @import "minima";
 
+.site-header {
+  background-color: #6CC17C;
+  .site-title, .page-link {
+    color: #F8F4E3;
+  }
+}
