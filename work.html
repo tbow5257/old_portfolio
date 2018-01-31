@@ -22,3 +22,7 @@ permalink: work
         </svg>
     </div>
 </div>
+
+{% for item in site.projects %}
+    <h2>{{ item.title }}</h2>
+{% endfor %}
