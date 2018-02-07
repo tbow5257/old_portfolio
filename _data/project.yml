@@ -1,9 +1,14 @@
 - type: E-commerce / Educational
   name: Patrick Teaching Art
-  list: PHP, Wordpress, jQuery
-  picture: http://via.placeholder.com/650x250
+  list: PHP <br> Wordpress <br> jQuery
+  picture: /assets/images/portfolio/pta.jpg
 
-- type: E-commerce / Educational
-  name: Patrick Teaching Art
-  list: PHP, Wordpress, jQuery
-  picture: http://via.placeholder.com/650x250
+- type: Single Page App
+  name: Museum Map App
+  list: JavaScript <br> Google Maps API <br> KnockoutJS
+  picture: /assets/images/portfolio/museum_map_app.jpg
+
+- type: RESTFul Database App
+  name: Future Reality Catalog
+  list: Python <br> Flask <br> Postgre
+  picture: /assets/images/portfolio/future_reality.jpg
