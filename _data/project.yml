@@ -12,3 +12,18 @@
   name: Future Reality Catalog
   list: Python <br> Flask <br> Postgre
   picture: /assets/images/portfolio/future_reality.jpg
+
+- type: Unity App / Google Cardboard VR
+  name: Apartment Globe Scene
+  list: Unity <br> C# <br> VR SDK
+  picture: /assets/images/portfolio/cardboard_app.jpg
+
+- type: Ecommerce / Web Design
+  name: Kali Kauai Gems
+  list: Shopify <br> Liquid <br> PHP
+  picture: /assets/images/portfolio/kali.jpg
+
+- type: Ecommerce / Web Design
+  name: Integrative Medicine Center
+  list: Drupal <br> Liquid <br> PHP
+  picture: /assets/images/portfolio/imedsb.jpg
