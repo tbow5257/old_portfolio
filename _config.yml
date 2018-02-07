@@ -33,7 +33,6 @@ plugins:
 
 # Choose pages for header
 header_pages:
- - blog.html
  - work.html
 
 collections:
